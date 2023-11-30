@@ -4,7 +4,7 @@ pip install sentencepiece==0.1.99
 pip install tokenizers==0.13.3
 pip install accelerate==0.21.0
 pip install bitsandbytes==0.40.0
-pip install vllm
+# pip install vllm
 pip install fraction
 pip install protobuf
 pip install loguru
